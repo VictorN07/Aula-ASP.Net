@@ -1,0 +1,1 @@
+Esse Projeto é dedicado as aula de ASP.Net Todo arquivo destinado para esse projeto esta relacionado a o curso de Net:Core ASP.Net, que tem como o intuito de Desenvolver uma API e boas praticas
